@@ -17,5 +17,5 @@ I'm combining existing projects into one, using the best ideas from all worlds:
 
 <placeholder for a picture of the done product, where the parts are highlighted>
 
-I collected all the STLs, pictures, diagrams, material lists from both projects, and put them into their respective folders.  
-The STLs, pictures and other files that I actually used to build my version are in the main folder.
+I collected all the STLs, pictures, diagrams, material lists from the projects, and put them into their respective folders.  
+The STLs, gcodes, pictures and other files that I actually used to build my version are in the main folder also in their respective folders.
