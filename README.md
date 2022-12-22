@@ -17,5 +17,19 @@ I'm combining existing projects into one, using the best ideas from all worlds:
 
 <placeholder for a picture of the done product, where the parts are highlighted>
 
-I collected all the STLs, pictures, diagrams, material lists from the projects, and put them into their respective folders.  
-The STLs, gcodes, pictures and other files that I actually used to build my version are in the main folder also in their respective folders.
+The STLs, gcodes, pictures and other files that I actually used to build my version are in the main folder in their respective folders.
+I collected all the STLs, pictures, diagrams, material lists from the "base" projects, and put them into their respective folders as well.  
+
+##The beginnings
+I purchased every needed electronic / hardware part, and collected + sliced all the STLs. 
+When the packages arrived I re-measured every dimension, and printed the plastic parts.
+
+Some tools that is 100% necessary for the assembpy process:
+- drill,
+- 2mm - 8mm drill heads,
+- screwdriver with bitheads,
+
+##Platform with switchholders and adapter
+I started the assembly with adding the 4 legs to the corners, and the holders for the controllers and the switches.
+After that, I mounted the adapter, and wired it with the main switch.
+![First steps assembled](/03_images/01.png)
