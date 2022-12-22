@@ -1,0 +1,37 @@
+Watch the unmount video here :
+
+https://www.youtube.com/watch?v=Mc2vt349XlI
+
+Here the screws list with the chronology of appearance for the 6200zz version :
+
+0.28 - 2x M8 nuts
+0.35 - 2x M8 washer
+0.41 - 2x 6200zz bearing with 2 printed spacers 
+0.46 - 1x M8 washer + 1x M8 nut
+0.53 - 2x M8 nuts
+1.01 - 2x M8 washer
+1.10 - 3x wood screw diameter 4mm length 15mm
+1.21 - 2x wood screw diameter 4mm length 15mm
+1.33 - 4x M3x10 screw
+2.05 - 1x Original PETamentor cutter motor
+2.13 - 1x M8x50 screw with a 8mm notch
+2.31 - 1x M8 nut
+2.40 - 3x M3x10 screw
+3.03 - 1x M8x40 + 1x M8x50 screws
+3.14 - 3x M3 nuts
+
+You will have to use the 6200zz version of the base... obviously ;)
+
+######################
+
+For the 608zz version,
+
+Identical to the 6200zz version except :
+
+- Use the 608zz base... obviously ;)
+- At chronology 1.01, add an M8 washer on the screw of the lowest bearing.
+- No need to print the spacers
+
+######################
+
+by Mak3D
