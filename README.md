@@ -56,6 +56,8 @@ Make sure to drill using as slow a speed as possible using a drill bit for metal
 5. Use only the cone part of a 8mm drill to make the beginning of the heatblock wider. 
 ![8mm drill](/03_images/8mm%20drill.jpg) 
 
+It should look something like this at the end: 
+![Final drilled heatblock](/03_images/final%20drilled%20heatblock.jpg) 
 
 ## Mounting the electronics and other hardware parts
 I started by laying out the parts on the baseplate, and marking where I would want everything to be. After that I pre-drilled the places where the screws would go, plus some bigger holes for the wires that will go through the board.
