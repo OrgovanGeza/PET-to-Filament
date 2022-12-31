@@ -32,15 +32,34 @@ Some tools that are 100% necessary for the assembly process (other than the ones
 - heat shrink tubes,
 - utility knife.
 
-## Platform with switchholders and adapter
+## Platform with switch holders and adapter
 I started the assembly with adding the 4 legs to the corners, and the holders for the controllers and the switches.
 After that, I mounted the adapter, and wired it with the main switch.
 ![First steps assembled](/03_images/01.png) 
-I would consider this as the first "main" chackpont. From now on, all there is to do is to add the individual electrical parts, and wire them either directly to the adapter, or through a switch / controller.
+I would consider this as the first "main" checkpoint. From now on, all there is to do is to add the individual electrical parts, and wire them either directly to the adapter, or through a switch / controller.
+
+## Preparing the hotend
+For the pulltruder to work, we have to modify the heatblock and the nozzle.
+If you could purchase a nozzle with a 1.5mm hole, you don't have to modify it, however if you only have a 0.4mm hole on it, you have to drill it with a 1.5mm drill.
+I suggest to assemble the heatblock and the nozzle on the L-shape iron, and mount it on a wood sheet (or even on the main board).
+Make sure to drill using as slow a speed as possible using a drill bit for metal!
+
+**Steps:**
+1. Use a 1.5mm drill to drill the nozzle (if you have a 0.4mm nozzle). Make sure to drill from the heatblock's direction. 
+![1.5mm drill](/03_images/1.5mm%20drill.jpg) 
+2. Use a 3mm drill to drill into the nozzle, but only until the cone part begins. 
+![3mm drill](/03_images/3mm%20drill.jpg) 
+3. Use a 5mm drill to drill the beginning of the nozzle. 
+![5mm drill](/03_images/5mm%20drill.jpg) 
+4. Use a 6mm drill to remove the threads from the heatblock. 
+![6mm drill](/03_images/6mm%20drill.jpg) 
+5. Use only the cone part of a 8mm drill to make the beginning of the heatblock wider. 
+![8mm drill](/03_images/8mm%20drill.jpg) 
+
 
 ## Mounting the electronics and other hardware parts
 I started by laying out the parts on the baseplate, and marking where I would want everything to be. After that I pre-drilled the places where the screws would go, plus some bigger holes for the wires that will go through the board.
-After that I placed every electornic part in it's 3D printed holder, so that during the wiring process I would know exactly how long the wires have to be.
-Of course the wiring have to be done on the bottom of the board, so I fetched some books taht I put under the ends of the board so that I could flip it upside down for the soldering-party to start.
+After that I placed every electronic part in it's 3D printed holder, so that during the wiring process I would know exactly how long the wires have to be.
+Of course the wiring have to be done on the bottom of the board, so I fetched some books that I put under the ends of the board so that I could flip it upside down for the soldering-party to start.
 
 ## Electrical components and wiring
