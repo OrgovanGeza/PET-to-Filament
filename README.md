@@ -41,9 +41,23 @@ I started the assembly with adding the 4 legs to the corners, and the holders fo
 After that, I mounted the adapter, and wired it with the main switch.
 ![First steps assembled](/03_images/01.png) 
 [Youtube tutorial video of this step. ](https://www.youtube.com/watch?v=9QzTbSUWdYM&ab_channel=Ond%C5%99ej%C5%A0raitr) 
-I would consider this as the first "main" checkpoint. From now on, all there is to do is to add the individual electrical parts, and wire them either directly to the adapter, or through a switch / controller.
+I would consider this as the first "main" checkpoint. From now on, all there is to do is to add the individual electrical parts, and wire them either directly to the adapter, or through a switch / controller. 
 
-## Preparing the hotend
+## Mounting the electronics and other hardware parts
+I started by laying out the parts on the baseplate, and marking where I would want everything to be. After that I pre-drilled the places where the screws would go, plus some bigger holes for the wires that will go through the board.
+After that I placed every electronic part in it's 3D printed holder, so that during the wiring process I would know exactly how long the wires have to be.
+ 
+### Cutter and puller motor
+I used a bearing-style cutter, but I added the same type of motorized cut-width adjuster. 
+It is also a better design as it is not required to drill holes through the board for the width-adjuster screws. All there is to do is to screw the whole 3D printed cutter to the end of the board.
+[Youtube tutorial video of the bearing sharpening process](https://www.youtube.com/watch?v=eTBnhKWMYQk&ab_channel=Function.3d) 
+[Youtube tutorial video of the cutter assembly](https://www.youtube.com/watch?v=Mc2vt349XlI&ab_channel=MatthieuSAMSON) 
+
+The assembly process is summarized on [this video](https://youtu.be/2e_wMAU6v-k?t=132) (of course the cutter part is not relevant for this version). 
+I ordered some smaller cut-width controller switches, so I had to re-design the holder panel. I designed it in a way that it can be secured to place with the help of some 3D printer filament. I also added some nice indicators of the pull speed.
+![Controller panel](/03_images/controller%20panel.jpg) ![Controller panel side](/03_images/controller%20panel%20side.jpg) 
+
+### Thermocontroller and heatblock 
 For the pulltruder to work, we have to modify the heatblock and the nozzle.
 If you could purchase a nozzle with a 1.5mm hole, you don't have to modify it, however if you only have a 0.4mm hole on it, you have to drill it with a 1.5mm drill.
 I suggest to assemble the heatblock and the nozzle on the L-shape iron, and mount it on a wood sheet (or even on the main board).
@@ -63,21 +77,16 @@ Make sure to drill using as slow a speed as possible using a drill bit for metal
 
 It should look something like this at the end: 
 ![Final drilled heatblock](/03_images/final%20drilled%20heatblock.jpg) 
-[Youtube tutorial video of this step](https://www.youtube.com/watch?v=WH65QqU2NoA&ab_channel=Ond%C5%99ej%C5%A0raitr)
+[Youtube tutorial video of this step](https://www.youtube.com/watch?v=WH65QqU2NoA&ab_channel=Ond%C5%99ej%C5%A0raitr) 
 
-## Mounting the electronics and other hardware parts
-I started by laying out the parts on the baseplate, and marking where I would want everything to be. After that I pre-drilled the places where the screws would go, plus some bigger holes for the wires that will go through the board.
-After that I placed every electronic part in it's 3D printed holder, so that during the wiring process I would know exactly how long the wires have to be.
- 
-### Cutter and puller motor
-I used a bearing-style cutter, but I added the same type of motorized cut-width adjuster. 
-It is also a better design as it is not required to drill holes through the board for the width-adjuster screws. All there is to do is to screw the whole 3D printed cutter to the end of the board.
-[Youtube tutorial video of the bearing sharpening process](https://www.youtube.com/watch?v=eTBnhKWMYQk&ab_channel=Function.3d)
-[Youtube tutorial video of the cutter assembly](https://www.youtube.com/watch?v=Mc2vt349XlI&ab_channel=MatthieuSAMSON)
+After all this, it is time to screw it onto the board along with the thermocontroller. 
+[Youtube tutorial video of this step](https://www.youtube.com/watch?v=RYWRElXa6Fs&ab_channel=Ond%C5%99ej%C5%A0raitr) 
 
-The assembly process is summarized on [this video](https://youtu.be/2e_wMAU6v-k?t=132) (of course the cutter part is not relevant for this version).
-I ordered some smaller cut-width controller switches, so I had to re-design the holder panel. I designed in a way that it can be secured to place with the help of some 3D printer filament. I also added some nice indicators of the pull speed.
-![Controller panel](/03_images/controller%20panel.jpg) ![Controller panel side](/03_images/controller%20panel%20side.jpg) 
+### Fans 
+This part is not video-documented, but it's pretty straight-forward. 
+I designed a fan-holder frame, printed 2 of it, and screwed onto the board. The fans can be screwed onto it using a 12mm woodscrew. 
+I added some holes on the bottom of the frame so that the fan cables can go through it. 
+![Fans](/03_images/fans.jpg) 
 
 ## Wiring
-Of course the wiring have to be done on the bottom of the board, so I fetched some books that I put under the ends of the board so that I could flip it upside down for the soldering-party to start.
+Of course the wiring had to be done on the bottom of the board, so I fetched some books that I put under the ends of the board so that I could flip it upside down for the soldering-party to start.
