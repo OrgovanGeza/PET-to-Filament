@@ -40,7 +40,7 @@ Some tools that are 100% necessary for the assembly process (other than the ones
 I started the assembly with adding the 4 legs to the corners, and the holders for the controllers and the switches.
 After that, I mounted the adapter, and wired it with the main switch.
 ![First steps assembled](/03_images/01.png) 
-[Youtube tutorial video of this step](https://www.youtube.com/watch?v=9QzTbSUWdYM&ab_channel=Ond%C5%99ej%C5%A0raitr)
+[Youtube tutorial video of this step. ](https://www.youtube.com/watch?v=9QzTbSUWdYM&ab_channel=Ond%C5%99ej%C5%A0raitr) 
 I would consider this as the first "main" checkpoint. From now on, all there is to do is to add the individual electrical parts, and wire them either directly to the adapter, or through a switch / controller.
 
 ## Preparing the hotend
@@ -76,6 +76,8 @@ It is also a better design as it is not required to drill holes through the boar
 [Youtube tutorial video of the cutter assembly](https://www.youtube.com/watch?v=Mc2vt349XlI&ab_channel=MatthieuSAMSON)
 
 The assembly process is summarized on [this video](https://youtu.be/2e_wMAU6v-k?t=132) (of course the cutter part is not relevant for this version).
+I ordered some smaller cut-width controller switches, so I had to re-design the holder panel. I designed in a way that it can be secured to place with the help of some 3D printer filament. I also added some nice indicators of the pull speed.
+![Controller panel](/03_images/controller%20panel.jpg) ![Controller panel side](/03_images/controller%20panel%20side.jpg) 
 
 ## Wiring
 Of course the wiring have to be done on the bottom of the board, so I fetched some books that I put under the ends of the board so that I could flip it upside down for the soldering-party to start.
