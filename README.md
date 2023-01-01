@@ -15,7 +15,7 @@ I'm combining existing projects into one, using the best ideas from all worlds:
 - Motor, and a spool that pulls the PET through the cutter & nozzle, and collects the filament on the spool
 - Motor Speed Controller
 
-<placeholder for a picture of the done product, where the parts are highlighted>
+![Parts named](/03_images/final%20state.jpg) 
 
 The STLs, gcodes, pictures and other files that I actually used to build my version are in the main folder in their respective folders.
 I collected all the STLs, pictures, diagrams, material lists from the "base" projects, and put them into their respective folders as well.  
