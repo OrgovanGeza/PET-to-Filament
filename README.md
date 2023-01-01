@@ -89,4 +89,17 @@ I added some holes on the bottom of the frame so that the fan cables can go thro
 ![Fans](/03_images/fans.jpg) 
 
 ## Wiring
-Of course the wiring had to be done on the bottom of the board, so I fetched some books that I put under the ends of the board so that I could flip it upside down for the soldering-party to start.
+Of course the wiring had to be done on the bottom of the board, so I fetched some books that I put under the ends of the board so that I could flip it upside down for the soldering-party to start. 
+I suggest to use as many cable management hooks as possible to keep everything nice and tidy.
+
+Here is a summary diagram of the whole wiring process: 
+![Wiring](/03_images/cut%20width-bottle%20thickness%20graph.jpg) 
+(to be updated with fans)
+
+### Switches
+
+### Controller panel
+![Controller panel](/03_images/controller%20panel%20wiring.jpg) 
+
+This is how it looks like after everything got wired: 
+![wired bottom](/03_images/final%20state%20bottom%20view.jpg)  
