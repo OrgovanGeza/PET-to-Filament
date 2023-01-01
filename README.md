@@ -93,7 +93,7 @@ Of course the wiring had to be done on the bottom of the board, so I fetched som
 I suggest to use as many cable management hooks as possible to keep everything nice and tidy.
 
 Here is a summary diagram of the whole wiring process: 
-![Wiring](/03_images/cut%20width-bottle%20thickness%20graph.jpg) 
+![Wiring](/03_images/Wiring-diagram.png) 
 (to be updated with fans)
 
 ### Switches
