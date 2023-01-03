@@ -10,16 +10,23 @@ My version is a bit different from the base Petamentor2 project as I used a bear
 
 **The pulltruder is built from the following parts:**
 - PET bottle cutter
-- PET string guider and cleaner
-- Nozzle that turns PET strip into filament
+- PET strip guider and cleaner
+- Heated nozzle that turns PET strip into filament
 - Heatblock & heater to heat the nozzle
+- Fans that make the pulltruded strip cooled
 - Thermocontoroller that controls the heater
 - Motor, and a spool that pulls the PET through the cutter & nozzle, and collects the filament on the spool
+- Filament hook tube that connects the puller to the pulled filament
 - Motor Speed Controller
 - PET strip width controller
 - Switches for every component
 
+A lot of parts can be 3D printed, but others has to be purchased.
+You can find a summary of every purchasable part and an estimated price for the whole project in the ![Hardware summary excel](/Hardware%20summary.xlsx)
+
 ![Parts named](/03_images/final%20state.jpg) 
+
+The STLs that I have actually used can be found in the ![01_STLs folder](/01_STLs/) 
 
 The STLs, gcodes, pictures and other files that I actually used to build my version are in the main folder in their respective folders.
 I collected all the STLs, pictures, diagrams, material lists from the "base" projects, and put them into their respective folders as well.  
