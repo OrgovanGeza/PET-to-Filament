@@ -102,9 +102,14 @@ I suggest to use as many cable management hooks as possible to keep everything n
 
 Here is a summary diagram of the whole wiring process: 
 ![Wiring](/03_images/Wiring-diagram.png) 
-(to be updated with fans)
+(to be updated with fans and extra switches)
 
 ### Switches
+The switches are pretty simple to wire. For each electronic component that it will turn on/off you will need to connect one of the wires to the switch, and the other cable can go straight to the adapter. 
+The switch has a 3rd leg for the LED that is in the switch itself. You can leave it out from the wiring process, or you can connect the other type of cable than the one that you connected to the other 2 legs. 
+
+Here is a simple explanation image: 
+![Switch wiring](/03_images/Switch%20wiring.png) 
 
 ### Controller panel
 ![Controller panel](/03_images/controller%20panel%20wiring.jpg) 
