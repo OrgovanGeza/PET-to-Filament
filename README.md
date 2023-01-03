@@ -57,9 +57,9 @@ After that I placed every electronic part in it's 3D printed holder, so that dur
  
 ### Cutter and puller motor
 I used a bearing-style cutter, but I added the same type of motorized cut-width adjuster. 
-It is also a better design as it is not required to drill holes through the board for the width-adjuster screws. All there is to do is to screw the whole 3D printed cutter to the end of the board.
-[Youtube tutorial video of the bearing sharpening process](https://www.youtube.com/watch?v=eTBnhKWMYQk&ab_channel=Function.3d) 
-[Youtube tutorial video of the cutter assembly](https://www.youtube.com/watch?v=Mc2vt349XlI&ab_channel=MatthieuSAMSON) 
+It is also a better design as it is not required to drill holes through the board for the width-adjuster screws. All there is to do is to screw the whole 3D printed cutter to the end of the board. 
+[Youtube tutorial video of the bearing sharpening process](https://www.youtube.com/watch?v=eTBnhKWMYQk&ab_channel=Function.3d). 
+[Youtube tutorial video of the cutter assembly](https://www.youtube.com/watch?v=Mc2vt349XlI&ab_channel=MatthieuSAMSON). 
 
 The assembly process is summarized on [this video](https://youtu.be/2e_wMAU6v-k?t=132) (of course the cutter part is not relevant for this version). 
 I ordered some smaller cut-width controller switches, so I had to re-design the holder panel. I designed it in a way that it can be secured to place with the help of some 3D printer filament. I also added some nice indicators of the pull speed.
