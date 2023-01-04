@@ -30,7 +30,7 @@ The STLs that I have actually used can be found in the [01_STLs folder](/01_STLs
 
 I also included the [gcodes](/02_Gcodes/) for 0.4mm nozzle and PLA, but please always slice your own from the STLs if you can! 
 
-I collected all the STLs, pictures, diagrams from the "base" projects, and put them into their respective folders as well. 
+I collected all the STLs, pictures, diagrams from the "base" projects, and put them into their respective folders as well. You will not need them if you will build exactly the version that I built, but I felt like including them in this repo for safe measure.
 
 ## The beginnings
 I purchased every needed electronic / hardware part, and collected + sliced all the STLs. 
